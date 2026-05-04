@@ -1,0 +1,5 @@
+
+learnt a new concept comprehension.
+basically it is filtering a list in one go based on a condition 
+For example 
+tasks=[task for task in tasks if not task["Done"]]
